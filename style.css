@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Lugrasimo&family=Mulish&family=Roboto:ital,wght@0,100;0,300;0,400;1,300&family=Source+Code+Pro:wght@300&family=Ubuntu&family=Varela+Round&display=swap');
+.carousel-item img{
+    height: 100vh;
+    width: 100vw;
+}
+.card img{
+    height: 283px;
+}
+body{
+    background-color: black;
+    overflow-x: hidden;
+  
+}
+footer{
+    height: 50px;
+   font: 'Inconsolata';
+    color: white;
+ 
+}
+form label{
+    color: aliceblue;
+}
+.form-text{
+    color: aliceblue;
+}
+
+.book-now{
+    margin-left: 82px;
+}
+.home-card h5{
+    font-family: 'Oswald', cursive;
+}
+.about h3 h5{
+    font-family: 'Bebas Neue';
+}
